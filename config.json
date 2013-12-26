@@ -1,0 +1,19 @@
+{
+  "layout":{
+    "left":[
+      "SystemOverview",
+      "Top"
+    ],
+    "centre":[
+      "LastLogins",
+      "ActiveConnections"
+    ],
+    "right":[
+      "DiskUsage",
+      "FileExplorer"
+    ]
+  },
+  "version":{
+    "info":"1.0"
+  }
+}

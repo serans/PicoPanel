@@ -36,3 +36,10 @@ Screen Shots
 ------------
 ![Main Screen](http://i.imgur.com/weNo5Ac.png)
 ![Config Screen](http://i.imgur.com/OwxcmuL.png)
+
+
+Licence
+========
+All source code in this project is
+  * (c) MH Serans, unless stated otherwise
+  * Available under the GPL v3 licence, unless stated otherwise
